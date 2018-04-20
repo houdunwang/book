@@ -1,8 +1,8 @@
 # Summary
 
 * [Part I](part1/README.md)
-    * [Writing is nice](part1/writing.md)
-    * [GitBook is nice](part1/gitbook.md)
+    * [后盾人线上培训](part1/writing.md)
+    * [后盾人线下实战](part1/gitbook.md)
 * [Part II](part2/README.md)
-    * [We love feedback](part2/feedback_please.md)
-    * [Better tools for authors](part2/better_tools.md)
+    * [向军大叔](part2/feedback_please.md)
+    * [每晚直播](part2/better_tools.md)
